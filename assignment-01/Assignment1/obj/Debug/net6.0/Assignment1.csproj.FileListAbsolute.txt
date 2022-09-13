@@ -1,0 +1,12 @@
+C:\Users\Mathias\Desktop\ITU_mappe\3.rd_semester\Analysis, Design and Software Architecture\Assignment-01\assignment-01\Assignment1\bin\Debug\net6.0\Assignment1.deps.json
+C:\Users\Mathias\Desktop\ITU_mappe\3.rd_semester\Analysis, Design and Software Architecture\Assignment-01\assignment-01\Assignment1\bin\Debug\net6.0\Assignment1.dll
+C:\Users\Mathias\Desktop\ITU_mappe\3.rd_semester\Analysis, Design and Software Architecture\Assignment-01\assignment-01\Assignment1\bin\Debug\net6.0\Assignment1.pdb
+C:\Users\Mathias\Desktop\ITU_mappe\3.rd_semester\Analysis, Design and Software Architecture\Assignment-01\assignment-01\Assignment1\obj\Debug\net6.0\Assignment1.csproj.AssemblyReference.cache
+C:\Users\Mathias\Desktop\ITU_mappe\3.rd_semester\Analysis, Design and Software Architecture\Assignment-01\assignment-01\Assignment1\obj\Debug\net6.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Desktop\ITU_mappe\3.rd_semester\Analysis, Design and Software Architecture\Assignment-01\assignment-01\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Mathias\Desktop\ITU_mappe\3.rd_semester\Analysis, Design and Software Architecture\Assignment-01\assignment-01\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfo.cs
+C:\Users\Mathias\Desktop\ITU_mappe\3.rd_semester\Analysis, Design and Software Architecture\Assignment-01\assignment-01\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\ITU_mappe\3.rd_semester\Analysis, Design and Software Architecture\Assignment-01\assignment-01\Assignment1\obj\Debug\net6.0\Assignment1.dll
+C:\Users\Mathias\Desktop\ITU_mappe\3.rd_semester\Analysis, Design and Software Architecture\Assignment-01\assignment-01\Assignment1\obj\Debug\net6.0\refint\Assignment1.dll
+C:\Users\Mathias\Desktop\ITU_mappe\3.rd_semester\Analysis, Design and Software Architecture\Assignment-01\assignment-01\Assignment1\obj\Debug\net6.0\Assignment1.pdb
+C:\Users\Mathias\Desktop\ITU_mappe\3.rd_semester\Analysis, Design and Software Architecture\Assignment-01\assignment-01\Assignment1\obj\Debug\net6.0\ref\Assignment1.dll
